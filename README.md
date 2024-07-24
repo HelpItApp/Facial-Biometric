@@ -2,8 +2,8 @@
 A python GUI based on Facial-Biometric recognition
 
 Requirements:
--> Python code editor
--> Module Packages: tkinter, cv2, os, pandas, numpy, PIL.
+1. Python code editor
+2. Module Packages: tkinter, cv2, os, pandas, numpy, PIL.
 
 Need to do:
 Create the following folders in the project folder:
