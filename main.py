@@ -26,7 +26,7 @@ def tick():
 
 
 def contact():
-    mess._show(title='Contact us', message="Please contact us on : \n'riddhida.pandey2022@vitstudent.ac.in'")
+    mess._show(title='Contact us', message="Please contact us on : \n'aradhydixit@gmail.com'")
 
 
 def check_haarcascadefile():
